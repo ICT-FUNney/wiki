@@ -17,4 +17,4 @@ ex. feat:ほげほげ
 https://github.com/ICT-FUNney/wiki/pull/2
 のようなテンプレがあるので則ってください
 
-## 
+## hoge
